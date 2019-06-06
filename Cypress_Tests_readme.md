@@ -21,7 +21,7 @@ page, Select a filter on Size, Click 1st Product, Add to Cart and Verify Cart on
 
 ## Getting started
 
-git clone https://github.com/hughsoong/react-shopping-cart
+git clone https://github.com/phanipatsa/rbc_test
 cd react-shopping-cart
 git checkout master
 git checkout git checkout feature/ppatsa_evaluation
