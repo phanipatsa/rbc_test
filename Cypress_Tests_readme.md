@@ -56,7 +56,7 @@ npm run cypress_test
 ```bash
 npm run cypress_test_mocha
 ```
-4. To run tests through Cypress UI to validate each test and trigger them manually, use command (node verison >5.2 is required).
+4. To run tests through Cypress UI to validate each test and trigger them manually, use command (node version >5.2 is required).
 ```bash
 npm run cypress
 ```
