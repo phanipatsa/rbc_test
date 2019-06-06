@@ -6,7 +6,7 @@
     "reporterOptions" : 
         {
         "reportFilename" : "Sample-Tests",
-        "overwrite": true,
+        "overwrite": false,
         "inline": true
         }
 }
